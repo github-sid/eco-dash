@@ -1,6 +1,8 @@
 import { createContext, useState, useMemo } from "react";
 import { createTheme } from "@mui/material/styles";
 
+//Return the color coding for the specific theme
+
 export const tokens = (mode) => ({
   ...(mode === "dark"
     ? {
@@ -207,12 +209,18 @@ export const useMode = () => {
 
   const colorMode = useMemo(
     () => ({
+      //changes it
       toggleColorMode: () =>
         setMode((prev) => (prev === "light" ? "dark" : "light")),
     }),
     []
   );
 
+  //For efficiency
+  //useMemo allow the computation only when mode is changed.
+
   const theme = useMemo(() => createTheme(themeSetting(mode)), [mode]);
-  return[theme, colorMode];
+  //colorMode is dark or light
+  //theme is the color coding
+  return [theme, colorMode];
 };
