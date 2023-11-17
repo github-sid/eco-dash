@@ -1,0 +1,3249 @@
+[
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 24353,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 24353,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 24328,
+   "CH4 Emissions (t of CO2e)": 11,
+   "N2O Emissions (t of CO2e)": 13
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Refrigerants",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 10884,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 10884,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Stationary Fuels",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 29,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 29,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 28,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 295,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 295,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 294,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "District Heating and Cooling",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 76979,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1623,
+   "Lifecycle Emissions (t of CO2e)": 78603,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 76118,
+   "CH4 Emissions (t of CO2e)": 215,
+   "N2O Emissions (t of CO2e)": 329
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Steam",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 1668,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 1668,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 1666,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Air Travel",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 68,
+   "Scope 3 Indirect Emissions (t of CO2e)": 8,
+   "Lifecycle Emissions (t of CO2e)": 76,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 68,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Materials Recovery (Recycling)",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Paper",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 4,
+   "Scope 3 Indirect Emissions (t of CO2e)": null,
+   "Lifecycle Emissions (t of CO2e)": 4,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste Recycled",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": null,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Offsets",
+   "Category": "Offsets and GHG Reductions",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": -357,
+   "Scope 3 Indirect Emissions (t of CO2e)": -3,
+   "Lifecycle Emissions (t of CO2e)": -360,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": -355,
+   "CH4 Emissions (t of CO2e)": -1,
+   "N2O Emissions (t of CO2e)": -1
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": null,
+   "Total Data": 258727674,
+   "Emissions (t of CO2e)": 14100,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 14100,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 14085,
+   "CH4 Emissions (t of CO2e)": 7,
+   "N2O Emissions (t of CO2e)": 8
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [GJ]",
+   "Location": null,
+   "Total Data": 12621,
+   "Emissions (t of CO2e)": 635,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 635,
+   "Floor space m2 (Floor space m2)": 6891.57,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 92
+   },
+   "CO2 Emissions (t of CO2e)": 635,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [therms]",
+   "Location": null,
+   "Total Data": 1810825,
+   "Emissions (t of CO2e)": 9618,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 9618,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 9608,
+   "CH4 Emissions (t of CO2e)": 5,
+   "N2O Emissions (t of CO2e)": 5
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Refrigerants",
+   "Data Type": "Refrigerant HFC-143a [kg]",
+   "Location": null,
+   "Total Data": 1565,
+   "Emissions (t of CO2e)": 5947,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 5947,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Refrigerants",
+   "Data Type": "Refrigerant R22 [kg]",
+   "Location": null,
+   "Total Data": 2805,
+   "Emissions (t of CO2e)": 4937,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 4937,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Stationary Fuels",
+   "Data Type": "Diesel Stationary [L]",
+   "Location": null,
+   "Total Data": 10544,
+   "Emissions (t of CO2e)": 29,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 29,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 28,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Diesel - Light Trucks [gal]",
+   "Location": null,
+   "Total Data": 401421,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": null,
+   "CH4 Emissions (t of CO2e)": null,
+   "N2O Emissions (t of CO2e)": null
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Diesel Transport [gal]",
+   "Location": null,
+   "Total Data": 28782,
+   "Emissions (t of CO2e)": 295,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 295,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 294,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Kerosene - for Aircraft - Avtur [L]",
+   "Location": null,
+   "Total Data": 136741,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "District Heating and Cooling",
+   "Data Type": "District Heating [kWh]",
+   "Location": null,
+   "Total Data": 13017,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": null,
+   "Total Data": 226439455,
+   "Emissions (t of CO2e)": 76979,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1623,
+   "Lifecycle Emissions (t of CO2e)": 78603,
+   "Floor space m2 (Floor space m2)": 6891.57,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 11170
+   },
+   "CO2 Emissions (t of CO2e)": 76118,
+   "CH4 Emissions (t of CO2e)": 215,
+   "N2O Emissions (t of CO2e)": 329
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Steam",
+   "Data Type": "Steam [MMBtu]",
+   "Location": null,
+   "Total Data": 7307,
+   "Emissions (t of CO2e)": 485,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 485,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 485,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Steam",
+   "Data Type": "Steam [therms]",
+   "Location": null,
+   "Total Data": 178097,
+   "Emissions (t of CO2e)": 1183,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 1183,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 1181,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Air Travel",
+   "Data Type": "Business flights [miles]",
+   "Location": null,
+   "Total Data": 229683,
+   "Emissions (t of CO2e)": 68,
+   "Scope 3 Indirect Emissions (t of CO2e)": 8,
+   "Lifecycle Emissions (t of CO2e)": 76,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 68,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Materials Recovery (Recycling)",
+   "Data Type": "E-waste [t]",
+   "Location": null,
+   "Total Data": 3007,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Paper",
+   "Data Type": "Paper [kg]",
+   "Location": null,
+   "Total Data": 1512,
+   "Emissions (t of CO2e)": 4,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 4,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste",
+   "Data Type": "Waste - General [lbs]",
+   "Location": null,
+   "Total Data": 95362,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste",
+   "Data Type": "Waste - General [tons]",
+   "Location": null,
+   "Total Data": 1641,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 1200,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste Recycled",
+   "Data Type": "Waste Recycled - Commingled [lbs]",
+   "Location": null,
+   "Total Data": 834832,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 1200,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Offsets",
+   "Category": "Offsets and GHG Reductions",
+   "Data Type": "Electricity - Green [kWh]",
+   "Location": null,
+   "Total Data": 1625394,
+   "Emissions (t of CO2e)": -357,
+   "Scope 3 Indirect Emissions (t of CO2e)": -3,
+   "Lifecycle Emissions (t of CO2e)": -360,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": -355,
+   "CH4 Emissions (t of CO2e)": -1,
+   "N2O Emissions (t of CO2e)": -1
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Banff",
+   "Total Data": 151424035,
+   "Emissions (t of CO2e)": 8252,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 8252,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 8244,
+   "CH4 Emissions (t of CO2e)": 4,
+   "N2O Emissions (t of CO2e)": 5
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Gatineau",
+   "Total Data": 1622984,
+   "Emissions (t of CO2e)": 88,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 88,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 88,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Hamilton",
+   "Total Data": 2067836,
+   "Emissions (t of CO2e)": 113,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 113,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 113,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Los Angeles",
+   "Total Data": 427943,
+   "Emissions (t of CO2e)": 23,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 23,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 23,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Mississauga",
+   "Total Data": 2052540,
+   "Emissions (t of CO2e)": 112,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 112,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 112,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Montreal",
+   "Total Data": 2034576,
+   "Emissions (t of CO2e)": 111,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 111,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 111,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Regina",
+   "Total Data": 1646887,
+   "Emissions (t of CO2e)": 90,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 90,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 90,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Sherbrooke",
+   "Total Data": 91903822,
+   "Emissions (t of CO2e)": 5008,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 5008,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 5003,
+   "CH4 Emissions (t of CO2e)": 2,
+   "N2O Emissions (t of CO2e)": 3
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Toronto",
+   "Total Data": 2240033,
+   "Emissions (t of CO2e)": 122,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 122,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 122,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Vancouver",
+   "Total Data": 1204855,
+   "Emissions (t of CO2e)": 66,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 66,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 66,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [cf]",
+   "Location": "Victoria",
+   "Total Data": 2102162,
+   "Emissions (t of CO2e)": 115,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 115,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 114,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [GJ]",
+   "Location": "Data Center 112",
+   "Total Data": 681,
+   "Emissions (t of CO2e)": 34,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 34,
+   "Floor space m2 (Floor space m2)": 1200,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 29
+   },
+   "CO2 Emissions (t of CO2e)": 34,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [GJ]",
+   "Location": "Grand Central",
+   "Total Data": 1102,
+   "Emissions (t of CO2e)": 55,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 55,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 55,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [GJ]",
+   "Location": "Provincial Court",
+   "Total Data": 4792,
+   "Emissions (t of CO2e)": 241,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 241,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 241,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [GJ]",
+   "Location": "Retail Store 222",
+   "Total Data": 1436,
+   "Emissions (t of CO2e)": 72,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 72,
+   "Floor space m2 (Floor space m2)": 767.56,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 94
+   },
+   "CO2 Emissions (t of CO2e)": 72,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [GJ]",
+   "Location": "Retail Store 517",
+   "Total Data": 4339,
+   "Emissions (t of CO2e)": 218,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 218,
+   "Floor space m2 (Floor space m2)": 4426.8,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 49
+   },
+   "CO2 Emissions (t of CO2e)": 218,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [GJ]",
+   "Location": "SK Regional Head Office",
+   "Total Data": 272,
+   "Emissions (t of CO2e)": 14,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 14,
+   "Floor space m2 (Floor space m2)": 497.21,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 27
+   },
+   "CO2 Emissions (t of CO2e)": 14,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [therms]",
+   "Location": "New York Wall St",
+   "Total Data": 11303,
+   "Emissions (t of CO2e)": 60,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 60,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 60,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [therms]",
+   "Location": "One Penn Plaza",
+   "Total Data": 20991,
+   "Emissions (t of CO2e)": 111,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 111,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 111,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [therms]",
+   "Location": "Pleasanton Office",
+   "Total Data": 105180,
+   "Emissions (t of CO2e)": 559,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 559,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 558,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [therms]",
+   "Location": "PortfolioCo 1",
+   "Total Data": null,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [therms]",
+   "Location": "Redmond",
+   "Total Data": 34297,
+   "Emissions (t of CO2e)": 182,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 182,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 182,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [therms]",
+   "Location": "Royal Oak",
+   "Total Data": 466530,
+   "Emissions (t of CO2e)": 2478,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 2478,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 2475,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [therms]",
+   "Location": "Taylor",
+   "Total Data": 267794,
+   "Emissions (t of CO2e)": 1422,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 1422,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 1421,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [therms]",
+   "Location": "Trenton",
+   "Total Data": 614026,
+   "Emissions (t of CO2e)": 3261,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 3261,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 3258,
+   "CH4 Emissions (t of CO2e)": 2,
+   "N2O Emissions (t of CO2e)": 2
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Natural Gas",
+   "Data Type": "Natural Gas [therms]",
+   "Location": "Wayne",
+   "Total Data": 290704,
+   "Emissions (t of CO2e)": 1544,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 1544,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 1542,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Refrigerants",
+   "Data Type": "Refrigerant HFC-143a [kg]",
+   "Location": "Redmond",
+   "Total Data": 1565,
+   "Emissions (t of CO2e)": 5947,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 5947,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Refrigerants",
+   "Data Type": "Refrigerant R22 [kg]",
+   "Location": "Grand Central",
+   "Total Data": 20,
+   "Emissions (t of CO2e)": 36,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 36,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Refrigerants",
+   "Data Type": "Refrigerant R22 [kg]",
+   "Location": "Redmond",
+   "Total Data": 2785,
+   "Emissions (t of CO2e)": 4902,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 4902,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Stationary Fuels",
+   "Data Type": "Diesel Stationary [L]",
+   "Location": "Los Angeles",
+   "Total Data": 10544,
+   "Emissions (t of CO2e)": 29,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 29,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 28,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Diesel - Light Trucks [gal]",
+   "Location": "DIrect Fleet",
+   "Total Data": 173212,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Diesel - Light Trucks [gal]",
+   "Location": "Los Angeles",
+   "Total Data": 88573,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Diesel - Light Trucks [gal]",
+   "Location": "PortfolioCo 4",
+   "Total Data": 139636,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Diesel Transport [gal]",
+   "Location": "Hartford",
+   "Total Data": 5276,
+   "Emissions (t of CO2e)": 54,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 54,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 54,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Diesel Transport [gal]",
+   "Location": "One Penn Plaza",
+   "Total Data": 5263,
+   "Emissions (t of CO2e)": 54,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 54,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 54,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Diesel Transport [gal]",
+   "Location": "Phillidelphia",
+   "Total Data": 2796,
+   "Emissions (t of CO2e)": 29,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 29,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 29,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Diesel Transport [gal]",
+   "Location": "PortfolioCo 1",
+   "Total Data": 2818,
+   "Emissions (t of CO2e)": 29,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 29,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 29,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Diesel Transport [gal]",
+   "Location": "USCA",
+   "Total Data": 12629,
+   "Emissions (t of CO2e)": 129,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 129,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 129,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Kerosene - for Aircraft - Avtur [L]",
+   "Location": "Los Angeles",
+   "Total Data": 136689,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "Transport Fuels",
+   "Data Type": "Kerosene - for Aircraft - Avtur [L]",
+   "Location": "USCA",
+   "Total Data": 52,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "District Heating and Cooling",
+   "Data Type": "District Heating [kWh]",
+   "Location": "One Penn Plaza",
+   "Total Data": 13017,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Administration Building",
+   "Total Data": 444483,
+   "Emissions (t of CO2e)": 169,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 169,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 168,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Asuncian Way",
+   "Total Data": 177771,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Auckland Admin",
+   "Total Data": 134320,
+   "Emissions (t of CO2e)": 12,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1,
+   "Lifecycle Emissions (t of CO2e)": 13,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 12,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Auckland Office",
+   "Total Data": 979405,
+   "Emissions (t of CO2e)": 85,
+   "Scope 3 Indirect Emissions (t of CO2e)": 8,
+   "Lifecycle Emissions (t of CO2e)": 94,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 84,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Banagalore Plaza",
+   "Total Data": 201199,
+   "Emissions (t of CO2e)": 139,
+   "Scope 3 Indirect Emissions (t of CO2e)": 25,
+   "Lifecycle Emissions (t of CO2e)": 164,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 139,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Banff",
+   "Total Data": 36894497,
+   "Emissions (t of CO2e)": 18816,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1107,
+   "Lifecycle Emissions (t of CO2e)": 19923,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 18816,
+   "CH4 Emissions (t of CO2e)": 72,
+   "N2O Emissions (t of CO2e)": 98
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Beijing Office",
+   "Total Data": 165811,
+   "Emissions (t of CO2e)": 102,
+   "Scope 3 Indirect Emissions (t of CO2e)": 5,
+   "Lifecycle Emissions (t of CO2e)": 107,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 102,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Berlin Commons",
+   "Total Data": 136045,
+   "Emissions (t of CO2e)": 43,
+   "Scope 3 Indirect Emissions (t of CO2e)": 2,
+   "Lifecycle Emissions (t of CO2e)": 44,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 42,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Bogota Data Centre",
+   "Total Data": 134398,
+   "Emissions (t of CO2e)": 31,
+   "Scope 3 Indirect Emissions (t of CO2e)": 2,
+   "Lifecycle Emissions (t of CO2e)": 33,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 31,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Brisbane Training Centre",
+   "Total Data": 309097,
+   "Emissions (t of CO2e)": 242,
+   "Scope 3 Indirect Emissions (t of CO2e)": 39,
+   "Lifecycle Emissions (t of CO2e)": 282,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Buenos Aires Plaza",
+   "Total Data": 239222,
+   "Emissions (t of CO2e)": 65,
+   "Scope 3 Indirect Emissions (t of CO2e)": 9,
+   "Lifecycle Emissions (t of CO2e)": 75,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 65,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Cairo Complex",
+   "Total Data": 183549,
+   "Emissions (t of CO2e)": 70,
+   "Scope 3 Indirect Emissions (t of CO2e)": 12,
+   "Lifecycle Emissions (t of CO2e)": 83,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 70,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Calgary Education Center",
+   "Total Data": 307530,
+   "Emissions (t of CO2e)": 157,
+   "Scope 3 Indirect Emissions (t of CO2e)": 9,
+   "Lifecycle Emissions (t of CO2e)": 166,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 157,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Cali Office",
+   "Total Data": 3203968,
+   "Emissions (t of CO2e)": 776,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 776,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 773,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 2
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Caracas Office",
+   "Total Data": 204048,
+   "Emissions (t of CO2e)": 20,
+   "Scope 3 Indirect Emissions (t of CO2e)": 6,
+   "Lifecycle Emissions (t of CO2e)": 26,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 20,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Carnatio Mall",
+   "Total Data": 186013,
+   "Emissions (t of CO2e)": 74,
+   "Scope 3 Indirect Emissions (t of CO2e)": 9,
+   "Lifecycle Emissions (t of CO2e)": 83,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 74,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Casablanca Education Centre",
+   "Total Data": 171719,
+   "Emissions (t of CO2e)": 65,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 65,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 65,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Ciudad de Mexico Office",
+   "Total Data": 152055,
+   "Emissions (t of CO2e)": 61,
+   "Scope 3 Indirect Emissions (t of CO2e)": 7,
+   "Lifecycle Emissions (t of CO2e)": 68,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 61,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Copenhagen Way",
+   "Total Data": 298036,
+   "Emissions (t of CO2e)": 28,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1,
+   "Lifecycle Emissions (t of CO2e)": 29,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 28,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Dallas - Pub",
+   "Total Data": 340048,
+   "Emissions (t of CO2e)": 126,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 126,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 125,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Darwin Office",
+   "Total Data": 242178,
+   "Emissions (t of CO2e)": 114,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 114,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 113,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Data Center",
+   "Total Data": 220019,
+   "Emissions (t of CO2e)": 116,
+   "Scope 3 Indirect Emissions (t of CO2e)": 6,
+   "Lifecycle Emissions (t of CO2e)": 123,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 116,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Data Center 112",
+   "Total Data": 2048625,
+   "Emissions (t of CO2e)": 957,
+   "Scope 3 Indirect Emissions (t of CO2e)": 32,
+   "Lifecycle Emissions (t of CO2e)": 989,
+   "Floor space m2 (Floor space m2)": 1200,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 797
+   },
+   "CO2 Emissions (t of CO2e)": 953,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 3
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Demo Assembly Plant",
+   "Total Data": 374500,
+   "Emissions (t of CO2e)": 208,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 208,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 206,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Dublin Education Centre",
+   "Total Data": 302773,
+   "Emissions (t of CO2e)": 81,
+   "Scope 3 Indirect Emissions (t of CO2e)": 6,
+   "Lifecycle Emissions (t of CO2e)": 86,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 80,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Energy Star Rated Site",
+   "Total Data": 625,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Fleet Garage",
+   "Total Data": 542124,
+   "Emissions (t of CO2e)": 201,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 201,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 200,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Gatineau",
+   "Total Data": 669727,
+   "Emissions (t of CO2e)": 19,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1,
+   "Lifecycle Emissions (t of CO2e)": 20,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 19,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Grand Central",
+   "Total Data": 5748729,
+   "Emissions (t of CO2e)": 2338,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 2338,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 2326,
+   "CH4 Emissions (t of CO2e)": 4,
+   "N2O Emissions (t of CO2e)": 8
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Green Bay",
+   "Total Data": 45959,
+   "Emissions (t of CO2e)": 33,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 33,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 33,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Guadalajara Office",
+   "Total Data": 211442,
+   "Emissions (t of CO2e)": 85,
+   "Scope 3 Indirect Emissions (t of CO2e)": 10,
+   "Lifecycle Emissions (t of CO2e)": 94,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 84,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Guayaquil Office",
+   "Total Data": 320011,
+   "Emissions (t of CO2e)": 47,
+   "Scope 3 Indirect Emissions (t of CO2e)": 7,
+   "Lifecycle Emissions (t of CO2e)": 53,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 46,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Hamilton",
+   "Total Data": 833121,
+   "Emissions (t of CO2e)": 23,
+   "Scope 3 Indirect Emissions (t of CO2e)": 2,
+   "Lifecycle Emissions (t of CO2e)": 25,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 23,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Harlow South",
+   "Total Data": 6809383,
+   "Emissions (t of CO2e)": 1339,
+   "Scope 3 Indirect Emissions (t of CO2e)": 122,
+   "Lifecycle Emissions (t of CO2e)": 1461,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 1324,
+   "CH4 Emissions (t of CO2e)": 5,
+   "N2O Emissions (t of CO2e)": 9
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Hong Kong Center",
+   "Total Data": 186955,
+   "Emissions (t of CO2e)": 54,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 54,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 54,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Howick Place",
+   "Total Data": 3569862,
+   "Emissions (t of CO2e)": 1324,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 1324,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 1323,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Johannesburg Data Centre",
+   "Total Data": 104620,
+   "Emissions (t of CO2e)": 97,
+   "Scope 3 Indirect Emissions (t of CO2e)": 11,
+   "Lifecycle Emissions (t of CO2e)": 108,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 97,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Kenya Commons",
+   "Total Data": 96552,
+   "Emissions (t of CO2e)": 6,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1,
+   "Lifecycle Emissions (t of CO2e)": 7,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 6,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Kuala Lumpur Complex",
+   "Total Data": 231493,
+   "Emissions (t of CO2e)": 151,
+   "Scope 3 Indirect Emissions (t of CO2e)": 11,
+   "Lifecycle Emissions (t of CO2e)": 162,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 151,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Library",
+   "Total Data": 274923,
+   "Emissions (t of CO2e)": 152,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 152,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 151,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Lille Office Plaza",
+   "Total Data": 104620,
+   "Emissions (t of CO2e)": 5,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 6,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 5,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Lima Commons",
+   "Total Data": 340512,
+   "Emissions (t of CO2e)": 61,
+   "Scope 3 Indirect Emissions (t of CO2e)": 7,
+   "Lifecycle Emissions (t of CO2e)": 68,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 60,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Ljubljana Office Centre",
+   "Total Data": 186013,
+   "Emissions (t of CO2e)": 43,
+   "Scope 3 Indirect Emissions (t of CO2e)": 2,
+   "Lifecycle Emissions (t of CO2e)": 44,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 42,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "London Centre",
+   "Total Data": 340972,
+   "Emissions (t of CO2e)": 68,
+   "Scope 3 Indirect Emissions (t of CO2e)": 6,
+   "Lifecycle Emissions (t of CO2e)": 74,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 67,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "London Commons",
+   "Total Data": 220019,
+   "Emissions (t of CO2e)": 44,
+   "Scope 3 Indirect Emissions (t of CO2e)": 4,
+   "Lifecycle Emissions (t of CO2e)": 48,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 44,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Los Angeles",
+   "Total Data": 1283498,
+   "Emissions (t of CO2e)": 479,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 479,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 476,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Los Angeles Office",
+   "Total Data": 236287,
+   "Emissions (t of CO2e)": 57,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 57,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 57,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Makkah Plaza",
+   "Total Data": 136045,
+   "Emissions (t of CO2e)": 83,
+   "Scope 3 Indirect Emissions (t of CO2e)": 8,
+   "Lifecycle Emissions (t of CO2e)": 91,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 83,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Manila Data Center",
+   "Total Data": 258797,
+   "Emissions (t of CO2e)": 184,
+   "Scope 3 Indirect Emissions (t of CO2e)": 19,
+   "Lifecycle Emissions (t of CO2e)": 203,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 183,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Medelli­n Commons",
+   "Total Data": 147918,
+   "Emissions (t of CO2e)": 34,
+   "Scope 3 Indirect Emissions (t of CO2e)": 3,
+   "Lifecycle Emissions (t of CO2e)": 37,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 34,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Medical Center",
+   "Total Data": 203063,
+   "Emissions (t of CO2e)": 77,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 77,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 77,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Melbourne Way",
+   "Total Data": 251546,
+   "Emissions (t of CO2e)": 235,
+   "Scope 3 Indirect Emissions (t of CO2e)": 23,
+   "Lifecycle Emissions (t of CO2e)": 259,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": null,
+   "CH4 Emissions (t of CO2e)": null,
+   "N2O Emissions (t of CO2e)": null
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Mississauga",
+   "Total Data": 921027,
+   "Emissions (t of CO2e)": 26,
+   "Scope 3 Indirect Emissions (t of CO2e)": 2,
+   "Lifecycle Emissions (t of CO2e)": 28,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 26,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Mobile Phones",
+   "Total Data": 640000,
+   "Emissions (t of CO2e)": 239,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 239,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 238,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Montevideo Centre",
+   "Total Data": 242178,
+   "Emissions (t of CO2e)": 10,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1,
+   "Lifecycle Emissions (t of CO2e)": 11,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 10,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Montreal",
+   "Total Data": 844935,
+   "Emissions (t of CO2e)": 1,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 1,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 1,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Moscow Complex",
+   "Total Data": 282756,
+   "Emissions (t of CO2e)": 102,
+   "Scope 3 Indirect Emissions (t of CO2e)": 9,
+   "Lifecycle Emissions (t of CO2e)": 111,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 102,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Mumbai Way",
+   "Total Data": 264296,
+   "Emissions (t of CO2e)": 183,
+   "Scope 3 Indirect Emissions (t of CO2e)": 32,
+   "Lifecycle Emissions (t of CO2e)": 216,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 182,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "New York Wall St",
+   "Total Data": 2126914,
+   "Emissions (t of CO2e)": 794,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 794,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 789,
+   "CH4 Emissions (t of CO2e)": 2,
+   "N2O Emissions (t of CO2e)": 2
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Office Columbia",
+   "Total Data": 4834714,
+   "Emissions (t of CO2e)": 1483,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 1483,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 1475,
+   "CH4 Emissions (t of CO2e)": 3,
+   "N2O Emissions (t of CO2e)": 5
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "One Penn Plaza",
+   "Total Data": 14120362,
+   "Emissions (t of CO2e)": 5269,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 5269,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 5241,
+   "CH4 Emissions (t of CO2e)": 10,
+   "N2O Emissions (t of CO2e)": 10
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Orchard Hill",
+   "Total Data": 53718,
+   "Emissions (t of CO2e)": 16,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 16,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 16,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Perrydale",
+   "Total Data": 42840,
+   "Emissions (t of CO2e)": 10,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 10,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 10,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "PortfolioCo 1",
+   "Total Data": 603092,
+   "Emissions (t of CO2e)": 146,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 146,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 145,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "PortfolioCo 2",
+   "Total Data": 436000,
+   "Emissions (t of CO2e)": 106,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 106,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 105,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "PortfolioCo 4",
+   "Total Data": 427000,
+   "Emissions (t of CO2e)": 103,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 103,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 103,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Provincial Court",
+   "Total Data": 6004800,
+   "Emissions (t of CO2e)": 84,
+   "Scope 3 Indirect Emissions (t of CO2e)": 6,
+   "Lifecycle Emissions (t of CO2e)": 90,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 78,
+   "CH4 Emissions (t of CO2e)": 3,
+   "N2O Emissions (t of CO2e)": 2
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Redmond",
+   "Total Data": 2198285,
+   "Emissions (t of CO2e)": 1050,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 1050,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 1043,
+   "CH4 Emissions (t of CO2e)": 2,
+   "N2O Emissions (t of CO2e)": 4
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Regina",
+   "Total Data": 446279,
+   "Emissions (t of CO2e)": 299,
+   "Scope 3 Indirect Emissions (t of CO2e)": 27,
+   "Lifecycle Emissions (t of CO2e)": 326,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 299,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 2
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Retail Store 222",
+   "Total Data": 38508,
+   "Emissions (t of CO2e)": 18,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1,
+   "Lifecycle Emissions (t of CO2e)": 19,
+   "Floor space m2 (Floor space m2)": 767.56,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 23
+   },
+   "CO2 Emissions (t of CO2e)": 18,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Retail Store 517",
+   "Total Data": 529920,
+   "Emissions (t of CO2e)": 248,
+   "Scope 3 Indirect Emissions (t of CO2e)": 8,
+   "Lifecycle Emissions (t of CO2e)": 256,
+   "Floor space m2 (Floor space m2)": 4426.8,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 56
+   },
+   "CO2 Emissions (t of CO2e)": 247,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Royal Oak",
+   "Total Data": 22238500,
+   "Emissions (t of CO2e)": 5486,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 5486,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 5441,
+   "CH4 Emissions (t of CO2e)": 18,
+   "N2O Emissions (t of CO2e)": 27
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Santa Maria",
+   "Total Data": 2033792,
+   "Emissions (t of CO2e)": 759,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 759,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 755,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Sherbrooke",
+   "Total Data": 24337945,
+   "Emissions (t of CO2e)": 32,
+   "Scope 3 Indirect Emissions (t of CO2e)": 10,
+   "Lifecycle Emissions (t of CO2e)": 41,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 32,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "SK Regional Head Office",
+   "Total Data": 50633,
+   "Emissions (t of CO2e)": 24,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1,
+   "Lifecycle Emissions (t of CO2e)": 24,
+   "Floor space m2 (Floor space m2)": 497.21,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 48
+   },
+   "CO2 Emissions (t of CO2e)": 24,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Taylor",
+   "Total Data": 14153500,
+   "Emissions (t of CO2e)": 6415,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 6415,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 6367,
+   "CH4 Emissions (t of CO2e)": 17,
+   "N2O Emissions (t of CO2e)": 31
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Toronto",
+   "Total Data": 970404,
+   "Emissions (t of CO2e)": 27,
+   "Scope 3 Indirect Emissions (t of CO2e)": 2,
+   "Lifecycle Emissions (t of CO2e)": 29,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 27,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Trenton",
+   "Total Data": 31999140,
+   "Emissions (t of CO2e)": 14503,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 14503,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 14395,
+   "CH4 Emissions (t of CO2e)": 39,
+   "N2O Emissions (t of CO2e)": 69
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "USCA",
+   "Total Data": 7583993,
+   "Emissions (t of CO2e)": 2830,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 2830,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 2815,
+   "CH4 Emissions (t of CO2e)": 6,
+   "N2O Emissions (t of CO2e)": 6
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Vancouver",
+   "Total Data": 491879,
+   "Emissions (t of CO2e)": 7,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 7,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 6,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Victoria",
+   "Total Data": 886076,
+   "Emissions (t of CO2e)": 12,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1,
+   "Lifecycle Emissions (t of CO2e)": 13,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 12,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Electricity",
+   "Data Type": "Electricity [kWh]",
+   "Location": "Wayne",
+   "Total Data": 15229851,
+   "Emissions (t of CO2e)": 6903,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 6903,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 6851,
+   "CH4 Emissions (t of CO2e)": 19,
+   "N2O Emissions (t of CO2e)": 33
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Steam",
+   "Data Type": "Steam [MMBtu]",
+   "Location": "One Penn Plaza",
+   "Total Data": 7307,
+   "Emissions (t of CO2e)": 485,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 485,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 485,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "Steam",
+   "Data Type": "Steam [therms]",
+   "Location": "Grand Central",
+   "Total Data": 178097,
+   "Emissions (t of CO2e)": 1183,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 1183,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 1181,
+   "CH4 Emissions (t of CO2e)": 1,
+   "N2O Emissions (t of CO2e)": 1
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Air Travel",
+   "Data Type": "Business flights [miles]",
+   "Location": "Corporate Air Travel",
+   "Total Data": 214683,
+   "Emissions (t of CO2e)": 66,
+   "Scope 3 Indirect Emissions (t of CO2e)": 7,
+   "Lifecycle Emissions (t of CO2e)": 73,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 65,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Air Travel",
+   "Data Type": "Business flights [miles]",
+   "Location": "One Penn Plaza",
+   "Total Data": 15000,
+   "Emissions (t of CO2e)": 2,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1,
+   "Lifecycle Emissions (t of CO2e)": 3,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 2,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Materials Recovery (Recycling)",
+   "Data Type": "E-waste [t]",
+   "Location": "E-Waste Disposal Inc",
+   "Total Data": 1714,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Materials Recovery (Recycling)",
+   "Data Type": "E-waste [t]",
+   "Location": "Green Bay",
+   "Total Data": 208,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Materials Recovery (Recycling)",
+   "Data Type": "E-waste [t]",
+   "Location": "Office Alexandria",
+   "Total Data": 110,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Materials Recovery (Recycling)",
+   "Data Type": "E-waste [t]",
+   "Location": "Office Chesapeake",
+   "Total Data": 323,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Materials Recovery (Recycling)",
+   "Data Type": "E-waste [t]",
+   "Location": "Office Columbia",
+   "Total Data": 190,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Materials Recovery (Recycling)",
+   "Data Type": "E-waste [t]",
+   "Location": "Office Salem",
+   "Total Data": 74,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Materials Recovery (Recycling)",
+   "Data Type": "E-waste [t]",
+   "Location": "Orchard Hill",
+   "Total Data": 216,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Materials Recovery (Recycling)",
+   "Data Type": "E-waste [t]",
+   "Location": "Royal Oak",
+   "Total Data": 173,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Paper",
+   "Data Type": "Paper [kg]",
+   "Location": "One Penn Plaza",
+   "Total Data": 1512,
+   "Emissions (t of CO2e)": 4,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 4,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste",
+   "Data Type": "Waste - General [lbs]",
+   "Location": "New York Wall St",
+   "Total Data": 9380,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste",
+   "Data Type": "Waste - General [lbs]",
+   "Location": "One Penn Plaza",
+   "Total Data": 6247,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste",
+   "Data Type": "Waste - General [lbs]",
+   "Location": "Pleasanton Office",
+   "Total Data": 79735,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste",
+   "Data Type": "Waste - General [tons]",
+   "Location": "Data Center 112",
+   "Total Data": 4,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 1200,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste",
+   "Data Type": "Waste - General [tons]",
+   "Location": "Grand Central",
+   "Total Data": 85,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste",
+   "Data Type": "Waste - General [tons]",
+   "Location": "USCA",
+   "Total Data": 1553,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste Recycled",
+   "Data Type": "Waste Recycled - Commingled [lbs]",
+   "Location": "Data Center 112",
+   "Total Data": 2950,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 1200,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste Recycled",
+   "Data Type": "Waste Recycled - Commingled [lbs]",
+   "Location": "Grand Central",
+   "Total Data": 80406,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste Recycled",
+   "Data Type": "Waste Recycled - Commingled [lbs]",
+   "Location": "New York Wall St",
+   "Total Data": 7806,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste Recycled",
+   "Data Type": "Waste Recycled - Commingled [lbs]",
+   "Location": "One Penn Plaza",
+   "Total Data": 2970,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "Waste Recycled",
+   "Data Type": "Waste Recycled - Commingled [lbs]",
+   "Location": "USCA",
+   "Total Data": 740700,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Offsets",
+   "Category": "Offsets and GHG Reductions",
+   "Data Type": "Electricity - Green [kWh]",
+   "Location": "Auckland Office",
+   "Total Data": 325704,
+   "Emissions (t of CO2e)": -28,
+   "Scope 3 Indirect Emissions (t of CO2e)": -3,
+   "Lifecycle Emissions (t of CO2e)": -31,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": -28,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Offsets",
+   "Category": "Offsets and GHG Reductions",
+   "Data Type": "Electricity - Green [kWh]",
+   "Location": "Cali Office",
+   "Total Data": 1203608,
+   "Emissions (t of CO2e)": -291,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": -291,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": -290,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": -1
+},
+ {
+   "Scope": "Offsets",
+   "Category": "Offsets and GHG Reductions",
+   "Data Type": "Electricity - Green [kWh]",
+   "Location": "Los Angeles",
+   "Total Data": 84283,
+   "Emissions (t of CO2e)": -31,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": -31,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": -31,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Offsets",
+   "Category": "Offsets and GHG Reductions",
+   "Data Type": "Electricity - Green [kWh]",
+   "Location": "One Penn Plaza",
+   "Total Data": 43,
+   "Emissions (t of CO2e)": 0,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 0,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 0,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Offsets",
+   "Category": "Offsets and GHG Reductions",
+   "Data Type": "Electricity - Green [kWh]",
+   "Location": "Redmond",
+   "Total Data": 11756,
+   "Emissions (t of CO2e)": -6,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": -6,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": -6,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "Scope 1",
+   "Category": "",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 35561,
+   "Scope 3 Indirect Emissions (t of CO2e)": 0,
+   "Lifecycle Emissions (t of CO2e)": 35561,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 24650,
+   "CH4 Emissions (t of CO2e)": 12,
+   "N2O Emissions (t of CO2e)": 14
+},
+ {
+   "Scope": "Scope 2",
+   "Category": "",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 78647,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1623,
+   "Lifecycle Emissions (t of CO2e)": 80270,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 77784,
+   "CH4 Emissions (t of CO2e)": 216,
+   "N2O Emissions (t of CO2e)": 330
+},
+ {
+   "Scope": "Scope 3",
+   "Category": "",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 72,
+   "Scope 3 Indirect Emissions (t of CO2e)": 8,
+   "Lifecycle Emissions (t of CO2e)": 80,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 68,
+   "CH4 Emissions (t of CO2e)": 0,
+   "N2O Emissions (t of CO2e)": 0
+},
+ {
+   "Scope": "GHG Emissions",
+   "Category": "",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 114280,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1631,
+   "Lifecycle Emissions (t of CO2e)": 115911,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 102502,
+   "CH4 Emissions (t of CO2e)": 228,
+   "N2O Emissions (t of CO2e)": 345
+},
+ {
+   "Scope": "Offsets",
+   "Category": "",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": -357,
+   "Scope 3 Indirect Emissions (t of CO2e)": -3,
+   "Lifecycle Emissions (t of CO2e)": -360,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": -355,
+   "CH4 Emissions (t of CO2e)": -1,
+   "N2O Emissions (t of CO2e)": -1
+},
+ {
+   "Scope": "GHG Inventory Total",
+   "Category": "",
+   "Data Type": null,
+   "Location": null,
+   "Total Data": 0,
+   "Emissions (t of CO2e)": 113923,
+   "Scope 3 Indirect Emissions (t of CO2e)": 1628,
+   "Lifecycle Emissions (t of CO2e)": 115552,
+   "Floor space m2 (Floor space m2)": 0,
+   "Emissions Intensity (kg CO2e": {
+      "Floor space m2)": 0
+   },
+   "CO2 Emissions (t of CO2e)": 102147,
+   "CH4 Emissions (t of CO2e)": 227,
+   "N2O Emissions (t of CO2e)": 344
+}
+]

@@ -1,0 +1,56 @@
+[
+ {
+   "Measures": "Scope 1",
+   "CO2e  (t)": 37819.66,
+   "CO2e  (t)-Previous Period (Oct 01 2021 - Oct 01 2022)": 35560.65,
+   "Proportion (%)": 33.84,
+   "Variance (%)": 6.35,
+   "Start Period": "Oct-22",
+   "End Period": "Sep-23"
+ },
+ {
+   "Measures": "Scope 2",
+   "CO2e  (t)": 74256.1,
+   "CO2e  (t)-Previous Period (Oct 01 2021 - Oct 01 2022)": 78647.03,
+   "Proportion (%)": 66.46,
+   "Variance (%)": -5.58,
+   "Start Period": "Oct-22",
+   "End Period": "Sep-23"
+ },
+ {
+   "Measures": "Scope 3",
+   "CO2e  (t)": 3.54,
+   "CO2e  (t)-Previous Period (Oct 01 2021 - Oct 01 2022)": 72.32,
+   "Proportion (%)": 0,
+   "Variance (%)": -95.1,
+   "Start Period": "Oct-22",
+   "End Period": "Sep-23"
+ },
+ {
+   "Measures": "GHG Emissions Total<span>(Scope1 + Scope2 + Scope3)</span>",
+   "CO2e  (t)": 112079.3,
+   "CO2e  (t)-Previous Period (Oct 01 2021 - Oct 01 2022)": 114280,
+   "Proportion (%)": 100,
+   "Variance (%)": -1.92,
+   "Start Period": "Oct-22",
+   "End Period": "Sep-23"
+ },
+ {
+   "Measures": "GHG Reduction Total",
+   "CO2e  (t)": 350.47,
+   "CO2e  (t)-Previous Period (Oct 01 2021 - Oct 01 2022)": 356.8,
+   "Proportion (%)": 100,
+   "Variance (%)": -1.77,
+   "Start Period": "Oct-22",
+   "End Period": "Sep-23"
+ },
+ {
+   "Measures": "Net GHG Inventory Total<span>(Total Emissions - Reductions)</span>",
+   "CO2e  (t)": 111728.83,
+   "CO2e  (t)-Previous Period (Oct 01 2021 - Oct 01 2022)": 113923.2,
+   "Proportion (%)": 100,
+   "Variance (%)": -1.92,
+   "Start Period": "Oct-22",
+   "End Period": "Sep-23"
+ }
+]

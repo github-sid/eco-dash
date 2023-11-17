@@ -1,0 +1,66 @@
+[
+ {
+   Data Type: "Business flights [miles]",
+   Cost (USD): "30000"
+ },
+ {
+   Data Type: "Diesel Stationary [L]",
+   Cost (USD): "48666"
+ },
+ {
+   Data Type: "Diesel Transport [gal]",
+   Cost (USD): "59553"
+ },
+ {
+   Data Type: "Electricity [kWh]",
+   Cost (USD): "47269097"
+ },
+ {
+   Data Type: "E-waste [t]",
+   Cost (USD): "181070"
+ },
+ {
+   Data Type: "Kerosene - for Aircraft - Avtur [L]",
+   Cost (USD): "118018"
+ },
+ {
+   Data Type: "Natural Gas [cf]",
+   Cost (USD): "2485290"
+ },
+ {
+   Data Type: "Natural Gas [GJ]",
+   Cost (USD): "4384"
+ },
+ {
+   Data Type: "Natural Gas [therms]",
+   Cost (USD): "2267432"
+ },
+ {
+   Data Type: "Steam [therms]",
+   Cost (USD): "560850"
+ },
+ {
+   Data Type: "Waste - General [lbs]",
+   Cost (USD): "7610"
+ },
+ {
+   Data Type: "Waste - General [tons]",
+   Cost (USD): "224333"
+ },
+ {
+   Data Type: "Waste - Landfill [t]",
+   Cost (USD): "16"
+ },
+ {
+   Data Type: "Water [gal]",
+   Cost (USD): "4289"
+ },
+ {
+   Data Type: "Water [kL]",
+   Cost (USD): "2603"
+ },
+ {
+   Data Type: "Water [m3]",
+   Cost (USD): "364118"
+ }
+]
