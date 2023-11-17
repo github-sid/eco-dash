@@ -81,7 +81,7 @@ const Sidebar = () => {
                 ml="15px"
               >
                 <Typography variant="h3" color={colors.grey[100]}>
-                  ADMIN
+                  ADMINIS
                 </Typography>
                 <IconButton onClick={() => setIsCollapsed(!isCollapsed)}>
                   <MenuOutlinedIcon />
@@ -193,21 +193,21 @@ const Sidebar = () => {
               Charts
             </Typography>
             <Item
-              title="Country Wise Co2 Emissions"
+              title="Bar Chart"
               to="/bar"
               icon={<BarChartOutlinedIcon />}
               selected={selected}
               setSelected={setSelected}
             />
             <Item
-              title="Group By Country"
+              title="Pie Chart"
               to="/pie"
               icon={<PieChartOutlineOutlinedIcon />}
               selected={selected}
               setSelected={setSelected}
             />
             <Item
-              title="Employees Country-Wise"
+              title="Line Chart"
               to="/line"
               icon={<TimelineOutlinedIcon />}
               selected={selected}
