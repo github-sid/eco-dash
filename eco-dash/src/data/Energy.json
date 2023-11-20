@@ -1,0 +1,86 @@
+[
+ {
+   "Month": "09-01-2022",
+   "Actual": 103739.48,
+   "Accrued": 2532.92,
+   "Estimated": 1.89,
+   "Cost per GJ": 40.5
+ },
+ {
+   "Month": "10-01-2022",
+   "Actual": 98790.47,
+   "Accrued": 2620.67,
+   "Estimated": 34.33,
+   "Cost per GJ": 42.36
+ },
+ {
+   "Month": "11-01-2022",
+   "Actual": 99186.34,
+   "Accrued": 2536.14,
+   "Estimated": 3.32,
+   "Cost per GJ": 39.89
+ },
+ {
+   "Month": "12-01-2022",
+   "Actual": 103738.46,
+   "Accrued": 2620.67,
+   "Estimated": 32.37,
+   "Cost per GJ": 38.6
+ },
+ {
+   "Month": "01-01-2023",
+   "Actual": 101398.3,
+   "Accrued": 2620.91,
+   "Estimated": 28.93,
+   "Cost per GJ": 42.11
+ },
+ {
+   "Month": "02-01-2023",
+   "Actual": 101801.9,
+   "Accrued": 267.02,
+   "Estimated": 3.78,
+   "Cost per GJ": 40.79
+ },
+ {
+   "Month": "03-01-2023",
+   "Actual": 102669.17,
+   "Accrued": 298.62,
+   "Estimated": 25.54,
+   "Cost per GJ": 41.92
+ },
+ {
+   "Month": "04-01-2023",
+   "Actual": 144401.51,
+   "Accrued": 286.59,
+   "Estimated": 8.16,
+   "Cost per GJ": 39.06
+ },
+ {
+   "Month": "05-01-2023",
+   "Actual": 120108.53,
+   "Accrued": 295.63,
+   "Estimated": 54.06,
+   "Cost per GJ": 42.45
+ },
+ {
+   "Month": "06-01-2023",
+   "Actual": 98244.17,
+   "Accrued": 286.33,
+   "Estimated": 7.4,
+   "Cost per GJ": 45.16
+ },
+ {
+   "Month": "07-01-2023",
+   "Actual": 106443.05,
+   "Accrued": 1273.55,
+   "Estimated": 24.59,
+   "Cost per GJ": 39.87
+ },
+ {
+   "Month": "08-01-2023",
+   "Actual": 106231.47,
+   "Accrued": 1274.01,
+   "Estimated": 4.73,
+   "Cost per GJ": 41.74
+ }
+]
